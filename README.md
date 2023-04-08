@@ -1,6 +1,7 @@
 # Standify Revisited Alternative Music for Stand Mod Menu.
 
 "Portable Spotify Stand and listen."
+
 Alternative to Standify Standard. It will includes Saved Playlists and verification folder adding auto folders.
 
 Standify can use wav files which you can import each favorite music, it's for Stand Mod Menu. Inspired by Lance to get Music Sounds.
