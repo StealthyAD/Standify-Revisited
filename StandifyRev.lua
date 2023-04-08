@@ -298,7 +298,7 @@
 
         local default_check_interval = 604800
         local auto_update_config = {
-            source_url="https://raw.githubusercontent.com/StealthyAD/Standify-Revisited/main/Standify.lua",
+            source_url="https://raw.githubusercontent.com/StealthyAD/Standify-Revisited/main/StandifyRev.lua",
             script_relpath=SCRIPT_RELPATH,
             switch_to_branch=selected_branch,
             verify_file_begins_with="--",
