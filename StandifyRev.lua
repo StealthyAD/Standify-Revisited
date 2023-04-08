@@ -473,7 +473,7 @@
         StandifyConprVerter:divider(FT("Compressor")) for i = 1, 3 do StandifyConprVerter:hyperlink(links[i][1], links[i][2]) end
         StandifyConprVerter:divider(FT("Converter")) for i = 4, #links do StandifyConprVerter:hyperlink(links[i][1], links[i][2]) end
 
-	    StandifyMiscs:hyperlink(FT("GitHub Source"), "https://github.com/StealthyAD/Standify")
+	    StandifyMiscs:hyperlink(FT("GitHub Source"), "https://github.com/StealthyAD/Standify-Revisited")
 
 	    StandifyMiscs:action(FT("Check for Updates"), {}, FT("The script will automatically check for updates at most daily, but you can manually check using this option anytime."), function()
         auto_update_config.check_interval = 0
